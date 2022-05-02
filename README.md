@@ -1,2 +1,2 @@
-# Rock-Paper_Scissors
+# Rock-Paper-Scissors
 First JS assignment
